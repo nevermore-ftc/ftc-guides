@@ -8,7 +8,15 @@ body {
 
 header {
     padding: 100px 20px;
-}
+}<nav>
+    <a class="btn" href="index.html">Home</a>
+    <a class="btn" href="getting-started.html">Getting Started</a>
+    <a class="btn" href="robot-development.html">Robot Development</a>
+    <a class="btn" href="outreach-awards.html">Outreach & Awards</a>
+    <a class="btn" href="resources.html">Resources</a>
+    <a class="btn" href="contact.html">Contact</a>
+</nav>
+
 
 h1 {
     font-size: 48px;
