@@ -36,4 +36,22 @@ p {
     color: white;
     text-decoration: none;
     border-radius: 8px;
+    nav {
+    margin-top: 20px;
+}
+
+nav .btn {
+    margin: 0 5px;
+    padding: 8px 20px;
+    background-color: #1e90ff;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+nav .btn:hover {
+    background-color: #3a7bff;
+}
+
 }
